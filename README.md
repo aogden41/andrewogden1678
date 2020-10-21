@@ -1,4 +1,4 @@
-### Hi! I'm Andrew and I am a @vatsim-network development team member.
+### Hi! I'm Andrew and I am a @vatsimnetwork development team member.
 
 #### About me
 - Proudly Australian
