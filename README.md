@@ -12,6 +12,8 @@
 [<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" />](https://github.com/topics/c-plus-plus)
 [<img align="left" alt="Python" width="35px" src="https://avatars0.githubusercontent.com/u/1525981?s=200&v=4" />](https://github.com/python)
 [<img align="left" alt="SQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />]()
+[<img align="left" alt="Java" width="40" src="https://camo.githubusercontent.com/5f90c377e2f36b006384208858ed580d48f17c4c/68747470733a2f2f6c6f676f732d646f776e6c6f61642e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031362f31302f4a6176615f6c6f676f5f69636f6e2e706e67" />](https://github.com/java)
+[<img align="left" alt="PHP" width="30px" src="https://avatars1.githubusercontent.com/u/25158?s=200&v=4" />](https://github.com/php)
 [<img align="left" alt="Laravel" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" />](https://github.com/laravel/laravel)
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]()
 [<img align="left" alt="Dart" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" />]()
