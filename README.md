@@ -1,4 +1,4 @@
-### Hi! I'm Andrew and I am a @vatsimnetwork development team member.
+### Hi! I'm Andrew and I am a photographer and programmer on the side.
 
 #### About me
 - Proudly Australian
